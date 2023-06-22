@@ -3,6 +3,6 @@
 "name": "trilha_campo2705",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "line_type": "transit", "spine": "true" }, "geometry": { "type": "MultiLineString", "coordinates":[ [ [ -49.69622464054514, -25.626487788581468 ],[ -49.696308668590376, -25.629624835603604 ],[ -49.694207967459484, -25.633854247213804 ] ] ]} } 
+{ "type": "Feature", "properties": { "line_type": "transit", "spine": "true" }, "geometry": { "type": "LineString", "coordinates":[ [ -49.69622464054514, -25.626487788581468 ],[ -49.696308668590376, -25.629624835603604 ],[ -49.694207967459484, -25.633854247213804 ] ] } } 
 ]
 }
